@@ -36,12 +36,12 @@ site_name: Konsilion - Low-technologie
 site_author: Nicolas Brémond
 site_description: Développer, proposer et promouvoir la Low-technologie.
 site_url: https://konsilion.fr
-repo_url: https://github.com/konsilion/website
+repo_url: https://github.com/besnardl/website
 
 extra:
-  katalog_repo: "https://github.com/konsilion/website"
-  katalog_site: "https://konsilion.fr"
-  katalog_mdp: "konsilion"
+  katalog_repo: "https://github.com/besnardl/website"
+  katalog_site: "https://besnardl.github.io/website"
+  katalog_mdp: "sophro"
   
 
 # LANGUE, COULEURS et LOGO
@@ -53,7 +53,7 @@ theme:
     language: fr
     palette:
         primary: blue grey
-        accent: green
+        accent: blue
     logo: https://github.com/Konsilion/website/blob/master/media/logo.png?raw=true
     favicon: https://user-images.githubusercontent.com/99027754/209714307-ab199f0d-509b-404f-9dd8-d8bd8fb99e37.png
 
