@@ -35,12 +35,12 @@ nav:
 site_name: Konsilion - Low-technologie
 site_author: Nicolas Brémond
 site_description: Développer, proposer et promouvoir la Low-technologie.
-site_url: https://besnardl.github.io/website
+site_url: https://matheyzen.fr
 repo_url: https://github.com/besnardl/website
 
 extra:
   katalog_repo: "https://github.com/besnardl/website"
-  katalog_site: "https://besnardl.github.io/website"
+  katalog_site: "https://matheyzen.fr"
   katalog_mdp: "sophro"
   
 
